@@ -2533,7 +2533,7 @@ h1.contact-title::after {
 }
 
 .explainer__processs-item--span {
-  background-image: url(../images/storytelling__text__arrow-right.png);
+  background-image: url(images/storytelling__text__arrow-right.png);
   background-repeat: no-repeat;
   background-size: contain;
   max-width: 155px;
