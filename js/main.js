@@ -16,9 +16,9 @@ $(function () {
     adaptiveHeight: true,
     appendArrows: ".testimonials",
     prevArrow:
-      '<button class="slick-arrow slick-prev "><img src="../images/icons/arrow-left.svg" alt=""></button>',
+      '<button class="slick-arrow slick-prev "><img src="images/icons/arrow-left.svg" alt=""></button>',
     nextArrow:
-      '<button class="slick-arrow slick-next "><img src="../images/icons/arrow-right.svg" alt=""></button>',
+      '<button class="slick-arrow slick-next "><img src="images/icons/arrow-right.svg" alt=""></button>',
     infinite: true,
     speed: 600,
     fade: true,
